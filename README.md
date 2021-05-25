@@ -1,7 +1,7 @@
 # E-Commerce Analysis
 
 * Using data to conduct **exploratory analysis** on an international e-commerce company. 
-* Derived key insights from the customer databse. 
+* Derived key insights from the customer database. 
 * Plotted Bar, Pie, Box and Heat graphs for the analysis. 
 * Used Jupyter Notebook for the analysis. 
 * Data Input was a csv file. 
